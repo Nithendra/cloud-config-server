@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "This is accounts DEV-ACCOUNTS server"
+  contactDetails:
+    name: "Nitendra"
+    email: "nit-dev@email.com"
+  callSupport:
+    - 1234
+    - 4321

@@ -1,0 +1,11 @@
+build:
+  version: 1.0.1
+
+accounts:
+  message: "This is accounts QA-ACCOUNTS server"
+  contactDetails:
+    name: "Betu"
+    email: "betu-dev@email.com"
+  callSupport:
+    - 3333
+    - 5555

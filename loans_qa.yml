@@ -1,0 +1,11 @@
+build:
+  version: 2.0.1
+
+accounts:
+  message: "This is accounts QA-LOANS server"
+  contactDetails:
+    name: "Akshita"
+    email: "aka-dev@email.com"
+  callSupport:
+    - 6666
+    - 7777

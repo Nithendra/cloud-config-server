@@ -1,0 +1,11 @@
+build:
+  version: 2.0.0
+
+accounts:
+  message: "This is accounts DEV-LOANS server"
+  contactDetails:
+    name: "Sharad"
+    email: "sha-dev@email.com"
+  callSupport:
+    - 2222
+    - 3333
